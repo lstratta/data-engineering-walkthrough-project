@@ -28,7 +28,7 @@ Here are the specifics of what (currently) will be covered:
 - Working with SQL and template data
 - Server administration basics
 
-##### Prerequisites/pre-cursor knowledge:
+#### Prerequisites/pre-cursor knowledge:
 - Access to AWS (either a personal account or a Cloud Academy account)
 
 **Please be aware that you may have to pay for AWS services using the personal account and AWS costs can be very high if used improperly. I would *HIGHLY RECOMMEND* researching the Cost and Billing section of AWS *BEFORE* using the services to get a better understanding.**
@@ -36,21 +36,21 @@ Here are the specifics of what (currently) will be covered:
 - Basic understanding of how a computer works
 - TBC... (there may be more)
 
-##### What this project is:
+#### What this project is:
 The Data Engineering Walkthrough is to be used as a supplement to a Data Engineering course, giving you a real world project to learn how to implement the skills you're learning.
 
 It will guide you through each section of creating a Data Warehouse and managing the data within it.
 
 Each section of this project will progressively build topics and try to point out what you're working on at that current point in time.
 
-##### What this project isn't:
+#### What this project isn't:
 This won't necessarily be a teaching resource, but more of a platform from which you can go an explore things on your own. I will try and include recommended teaching resources where possible.
 
 It also won't be a "how-to" guide - if you don't know something use the resources available on the internet to find out how to do something. There will eventually be pointers to the appropriate resource, should you need it.
 
 That being said, if you are lost at where to go next, let me know and I will revise that section of the project
 
-##### What to do if something is wrong:
+#### What to do if something is wrong:
 Let me know! If I've made a mistake somewhere, let me know:
 - where the mistake
 - what the mistake is

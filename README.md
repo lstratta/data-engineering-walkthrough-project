@@ -1,9 +1,9 @@
 # Data Engineering Walkthrough Project
-This walkthrough will take you through the steps of creating your own data warehouse using AWS services and PostGreSQL, and building on your knowledge of Linux systems, server and database administration, working with security best practices, and CI/CD pipelines.
+This walkthrough will take you through the steps of creating your own database in the cloud using AWS services and PostGreSQL, and building on your knowledge of Linux systems, server and database administration, working with security best practices, and CI/CD pipelines.
 
 This is an ongoing project that will be built out further over time, and if you would like to contribute towards the content within this project, let's chat!
 
-##### Goals of this project:
+#### Goals of this project:
 The main goal of this project is help you really deepen your understanding of how to work with each element of a data warehouse. 
 
 It's also meant to help you question your understanding of things, prompting you to dive deeper into those topics and find all the little nuances that will pin down your understanding of a topic.
@@ -62,4 +62,4 @@ The information above will help get the project updated as soon as possible.
 ## Contents:
 1. Setting up and securing your AWS account
 2. Creating, accessing, and securing your servers
-3. 
+3. I

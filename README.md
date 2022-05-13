@@ -16,8 +16,10 @@ Here are the specifics of what (currently) will be covered:
 	- Database
 	- Networking and Content Delivery
 	- Cost Management
+	- Implementation into code
 - Linux basics
 	- Managing a Linux server
+	- SSH
 	- Getting comfortable with the command line
 	- Python/Bash scripting and Automations (this might become it's own CI/CD topic)
 	- How to escape from VIM (and then how to use it)
@@ -25,8 +27,14 @@ Here are the specifics of what (currently) will be covered:
 - Networking basics
 	- Firewalls
 - Database administration basics
+	- Securing Databases
+	- Installing PostGreSQL
 - Working with SQL and template data
+	- Data analysis
+	- CRUD
 - Server administration basics
+	- Creating servers
+	- Securing servers
 
 #### Prerequisites/pre-cursor knowledge:
 - Access to AWS (either a personal account or a Cloud Academy account)
